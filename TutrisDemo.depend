@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1535334537 source:d:\codeblocksproject\tutrisdemo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	"tutrisdemo.h"
+
+1535422476 d:\codeblocksproject\tutrisdemo\tutrisdemo.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<errno.h>
+	<time.h>
+	<conio.h>
+
+1535355303 source:d:\codeblocksproject\tutrisdemo\tutrisdemo.c
+	"tutrisdemo.h"
+
+1535612921 source:e:\test\tutrisdemo\tutrisdemo\main.c
+	"tutrisdemo.h"
+
+1535612017 e:\test\tutrisdemo\tutrisdemo\tutrisdemo.h
+	"list.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<errno.h>
+	<time.h>
+	<conio.h>
+	<mmsystem.h>
+	<pthread.h>
+
+1535614981 source:e:\test\tutrisdemo\tutrisdemo\tutrisdemo.c
+	"tutrisdemo.h"
+
+1535608863 e:\test\tutrisdemo\tutrisdemo\list.h
+	<time.h>
+	<stdio.h>
+
+1535549363 source:e:\test\tutrisdemo\tutrisdemo\list.c
+	"list.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
